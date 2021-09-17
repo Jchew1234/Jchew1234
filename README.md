@@ -11,6 +11,9 @@ Projects I have worked on:
 
 [Buddie-up](https://www.buddie-up.com/welcome)
 
+![Buddieup](https://user-images.githubusercontent.com/84325750/133799708-b172a363-1941-4e71-ba49-41d7888ca863.jpg)
+
+
 
 <!--
 **Jchew1234/Jchew1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
