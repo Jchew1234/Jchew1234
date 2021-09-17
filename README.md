@@ -7,6 +7,10 @@ I am Jacob and I am a Ruby on Rails developer living in London. I enjoy reading 
 - 👯 I’m looking to collaborate on ...
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jacob-chew-jing-chuan/)
 
+Projects I have worked on: 
+
+[Buddie-up](https://www.buddie-up.com/welcome)
+
 
 <!--
 **Jchew1234/Jchew1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
