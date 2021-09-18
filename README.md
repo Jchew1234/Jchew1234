@@ -11,7 +11,10 @@ Projects I have worked on:
 
 [Buddie-up](https://www.buddie-up.com/welcome)
 
+Buddie-up is a website that 
+
 ![Buddieup](https://user-images.githubusercontent.com/84325750/133799708-b172a363-1941-4e71-ba49-41d7888ca863.jpg)
+
 
 
 
